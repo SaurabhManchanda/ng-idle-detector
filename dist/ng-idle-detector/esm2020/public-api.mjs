@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ng-idle-detector
+ */
+export * from './lib/ng-idle-detector.service';
+export * from './lib/ng-idle-detector.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25nLWlkbGUtZGV0ZWN0b3Ivc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLGdDQUFnQyxDQUFDO0FBQy9DLGNBQWMsK0JBQStCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5nLWlkbGUtZGV0ZWN0b3JcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9uZy1pZGxlLWRldGVjdG9yLnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbmctaWRsZS1kZXRlY3Rvci5tb2R1bGUnO1xuIl19
