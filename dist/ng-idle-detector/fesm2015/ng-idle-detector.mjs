@@ -29,8 +29,8 @@ class NgIdleDetectorService {
         this.idleSubscription.unsubscribe();
     }
 }
-NgIdleDetectorService.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorService, deps: [], target: i0.ɵɵFactoryTarget.Injectable });
-NgIdleDetectorService.ɵprov = i0.ɵɵngDeclareInjectable({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorService, providedIn: 'root' });
+/** @nocollapse */ NgIdleDetectorService.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorService, deps: [], target: i0.ɵɵFactoryTarget.Injectable });
+/** @nocollapse */ NgIdleDetectorService.ɵprov = i0.ɵɵngDeclareInjectable({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorService, providedIn: 'root' });
 i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorService, decorators: [{
             type: Injectable,
             args: [{
@@ -40,9 +40,9 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "13.3.8", ngImpor
 
 class NgIdleDetectorModule {
 }
-NgIdleDetectorModule.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorModule, deps: [], target: i0.ɵɵFactoryTarget.NgModule });
-NgIdleDetectorModule.ɵmod = i0.ɵɵngDeclareNgModule({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorModule });
-NgIdleDetectorModule.ɵinj = i0.ɵɵngDeclareInjector({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorModule, providers: [NgIdleDetectorService], imports: [[]] });
+/** @nocollapse */ NgIdleDetectorModule.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorModule, deps: [], target: i0.ɵɵFactoryTarget.NgModule });
+/** @nocollapse */ NgIdleDetectorModule.ɵmod = i0.ɵɵngDeclareNgModule({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorModule });
+/** @nocollapse */ NgIdleDetectorModule.ɵinj = i0.ɵɵngDeclareInjector({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorModule, providers: [NgIdleDetectorService], imports: [[]] });
 i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "13.3.8", ngImport: i0, type: NgIdleDetectorModule, decorators: [{
             type: NgModule,
             args: [{
